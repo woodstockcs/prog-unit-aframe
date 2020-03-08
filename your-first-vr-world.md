@@ -13,4 +13,4 @@ __🤯 Aspire To__ lessons: _1.2.11_ thru and including _1.2.13 Learning VR Badg
 ---
 
 ## ⭐ Mastery Check ⭐
-Grab a copy of the _Mastery Check_ paper for this lesson, fill it out, and hand it to Mr. Smith when you're done.
+Grab a paper copy of the _Mastery Check_ for this lesson, fill it out, and hand it to Mr. Smith when you're done.
