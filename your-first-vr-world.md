@@ -1,21 +1,23 @@
 # Your First VR World
 
+---
 
-## 🍎 Must Do 🍎 Lessons (roughly equivalent to "2-Approaching")
+Go to [CodeHS.com](https://www.codehs.com) and open _Chapter 1.2 Your First VR World_.
 
-1. Go to [CodeHS.com](https://www.codehs.com) and open _Chapter 1.2 Your First VR World_.
-2. Do lessons _1.2.1 Modifying a Sphere_ thru and including _1.2.8 Create the Floor_.
+## 🍎 Must Do
 
-
-## 🥳 Should Do 🥳 Lessons (roughly equivalent to "3-Proficient")
-
-1. Do lessons _1.2.9_ and _1.2.10_
+lessons _1.2.1 Modifying a Sphere_ thru and including _1.2.8 Create the Floor_.
 
 
+## 🥳 Should Do
 
-## 🤯 Aspire To 🤯 Lessons (roughly equivalent to "4-Distinguished")
+lessons _1.2.9_ and _1.2.10_
 
-1. Do lessons _1.2.11_ thru and including _1.2.13_.
+
+
+## 🤯 Aspire To
+
+lessons _1.2.11_ thru and including _1.2.13_.
 
 
 ---
