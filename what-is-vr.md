@@ -10,6 +10,14 @@ __🍎 Must Do__:
 2. Open the course called _WCS Introduction to Virtual Reality_.
 3. Do the four lessons in _Chapter 1.1 What is VR_, and while you are on the video (1.1.1) and the example (1.1.4), ✏ take notes on the main points and things to remember in the A-Frame Workbook. You will be able to use your A-Frame Workbook in all the Mastery Checks for this unit.
 
+__🥳 Should Do__:
+
+Color, cut, and assemble a paper cube. Find the cube-making supplies in the classroom.
+
+OR
+
+Make something in Tilt Brush in the VR Room.
+
 ## ⭐ Mastery Check ⭐
 Ask Mr. Smith for a paper copy of the _Mastery Check_ for this lesson, fill it out, and hand it back to Mr. Smith when you're done.
 
