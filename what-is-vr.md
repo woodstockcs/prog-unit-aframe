@@ -19,7 +19,7 @@ OR
 Spend about 20 minutes making something in Tilt Brush in the VR Room.
 
 ## ⭐ Mastery Check ⭐
-Ask Mr. Smith for a paper copy of the _Mastery Check_ for this lesson, fill it out, and hand it back to Mr. Smith when you're done.
+The mastery check is [linked here](). Capture your answer in any form you like (typed, video, audio, handwritten+photographed), then submit it on google classroom in the assignment called "Submit your AFrame 1.2 Mastery Check here".
 
 ---
 [<-- back to unit overview](README.md)
