@@ -11,7 +11,7 @@ __🍎 Must Do__ pages: _1.2.1_ thru and including _1.2.8 Create the Floor_.
 
 __🥳 Should Do__ pages: _1.2.9_ thru and including _1.2.10 Snowflakes_
 
-__🤯 Aspire To__ pages: _1.2.11_ thru and including _1.2.13 Learning VR Badge_.
+__🤯 Aspire To__ pages: _1.2.11_ thru and including _1.2.12 Make a Scene_.
 
 
 ---
