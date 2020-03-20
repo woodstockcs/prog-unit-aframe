@@ -7,4 +7,6 @@
 - 3.1 [Animations](animations.md)
 - 4.2 [Gaze-Based Interactions](gaze-based-interactions.md)
 - 5.1 [360˚ Images](360-degree-images.md)
-- 6.1 [Unit Project](unit-project.md)
+
+### Summative
+- [Unit Project](unit-project.md)
