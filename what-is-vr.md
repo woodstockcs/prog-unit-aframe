@@ -1,7 +1,7 @@
 [<-- back to unit overview](README.md)
 
 ---
-# What is VR
+# 1.1 What is VR
 
 __🍎 Must Do__:
 
@@ -19,7 +19,7 @@ OR
 Spend about 20 minutes making something in Tilt Brush in the VR Room.
 
 ## ⭐ Mastery Check ⭐
-The mastery check is [linked here](). Capture your answer in any form you like (typed, video, audio, handwritten+photographed), then submit it on google classroom in the assignment called "Submit your AFrame 1.2 Mastery Check here".
+The mastery check is [linked here](). Capture your answer in any form you like (typed, video, audio, handwritten+photographed), then submit it on google classroom in the assignment called "Submit your A-Frame 1.1 Mastery Check here".
 
 ---
 [<-- back to unit overview](README.md)
