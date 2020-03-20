@@ -17,7 +17,7 @@ __🤯 Aspire To__ pages: _1.2.11_ thru and including _1.2.12 Make a Scene_.
 ---
 
 ## ⭐ Mastery Check ⭐
-Get the Share Link ([what's that?]()) for the most advanced page you did in this lesson. Then go to the "classwork" section of Google Classroom and submit that share link at in the assignment called "Submit your A-Frame 1.2 Mastery Check here".
+Get the Share Link ([what's that?](https://youtu.be/DMW0yL_-dug)) for the most advanced page you did in this lesson. Then go to the "classwork" section of Google Classroom and submit that share link at in the assignment called "Submit your A-Frame 1.2 Mastery Check here".
 
 ---
 [<-- back to unit overview](README.md)
