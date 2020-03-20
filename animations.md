@@ -19,7 +19,7 @@ __🤯 Aspire To__ pages: _3.1.17_ thru and including _3.1.19 Animate a Scene_. 
 ---
 
 ## ⭐ Mastery Check ⭐
-Go to the "classwork" section of Google Classroom to complete and submit the assignment called "Submit your A-Frame 1.2 Mastery Check here".
+Go to the "classwork" section of Google Classroom to complete and submit the assignment called "Submit your A-Frame 3.1 Mastery Check here".
 
 ---
 [<-- back to unit overview](README.md)
