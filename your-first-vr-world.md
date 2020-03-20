@@ -2,7 +2,7 @@
 
 ---
 
-# Your First VR World
+# 1.2 Your First VR World
 
 
 Go to [CodeHS.com](https://www.codehs.com) and open _Chapter 1.2 Your First VR World_.
@@ -17,7 +17,7 @@ __🤯 Aspire To__ pages: _1.2.11_ thru and including _1.2.13 Learning VR Badge_
 ---
 
 ## ⭐ Mastery Check ⭐
-Grab a paper copy of the _Mastery Check_ for this lesson, fill it out, and hand it to Mr. Smith when you're done.
+The mastery check is [linked here](). Capture your answer in any form you like (typed, video, audio, handwritten+photographed), then submit it on google classroom in the assignment called "Submit your AFrame 1.2 Mastery Check here".
 
 ---
 [<-- back to unit overview](README.md)
