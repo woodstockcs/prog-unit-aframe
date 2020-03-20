@@ -18,7 +18,7 @@ __🤯 Aspire To__ pages: _2.1.14_ thru and including _2.1.15 Create A New World
 ---
 
 ## ⭐ Mastery Check ⭐
-Go to the "classwork" section of Google Classroom to complete and submit the assignment called "Submit your A-Frame 2.1 Mastery Check here".
+Get the Share Link ([what's that?](https://youtu.be/DMW0yL_-dug)) for the most advanced page you did in this lesson. Then go to the "classwork" section of Google Classroom and submit that share link at in the assignment called "Submit your A-Frame 2.1 Mastery Check here".
 
 ---
 [<-- back to unit overview](README.md)
