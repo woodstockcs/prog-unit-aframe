@@ -8,7 +8,7 @@
 
 Go to [CodeHS.com](https://www.codehs.com) and open _Chapter 2.1 Advanced Shapes_.
 
-__🍎 Must Do__ pages: _2.1.1_ thru and including _2.1.10 Make a City_.
+__🍎 Must Do__ pages: _2.1.1_ thru and including _2.1.10 Make a City_. As you're working, ✏ take brief notes on the pages that have dedicated notes boxes in your A-Frame Workbook. (for this chapter, that's 2.1.1 and 2.1.3 and 2.1.4 and 2.1.6 and 2.1.8 and 2.1.9)
 
 __🥳 Should Do__ pages: _2.1.11_ thru and including _2.1.13 Garden Sculpture_.
 
