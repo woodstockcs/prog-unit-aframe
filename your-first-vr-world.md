@@ -11,6 +11,8 @@ __🍎 Must Do__ pages: _1.2.1_ thru and including _1.2.8 Create the Floor_. As 
 
 ⚠ You'll be submitting that workbook at the end of this unit for a grade. ⚠ Is your A-Frame Workbook stuck at school? Go to the google classroom assignment called "Your Copy of the A-Frame Workbook". ⚠ 
 
+🎥 Video walkthroughs of all the exercises are [here](https://www.youtube.com/playlist?list=PLw-wAWuoxiQk5kgcMBFF2bVG3NtWQZzgj) 🎥
+
 __🥳 Should Do__ pages: _1.2.9_ thru and including _1.2.10 Snowflakes_.
 
 __🤯 Aspire To__ pages: _1.2.11_ thru and including _1.2.12 Make a Scene_.
